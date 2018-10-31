@@ -1,0 +1,24 @@
+###############################################################################
+# Author: Necrolord (Eran Braun).
+# Date: 12/10/2018.
+
+**************************************************************************
+This is the ADDITIONAL NOTES file to LAMP Server installation script.
+**************************************************************************
+
+##1. Source: https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-centos-7
+
+##2. The script was written on Fedora-28-workstatoin-64bit and as such is adapted to that system. If you are running other systems (older versions of fedora OS or other linux based OS) make sure to adapt the script to your system.
+
+##3. The script installs a very basic version of a LAMP Server.
+
+##4. Pay attention that i did not install linux , since the my OS (Fedora-28-workstatoin) already fulfill this purpose.
+
+##5. Pay attention that i chose to install Apache as web server.
+
+##6. Pay attention that i chose to install MariaDB as MySQL server. 
+
+##7. Pay attention that i chose to install PHP as the programming language. 
+. 
+
+~                                         
